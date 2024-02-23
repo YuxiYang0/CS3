@@ -1,0 +1,15 @@
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/bin/Debug/net7.0/Fibonacci
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/bin/Debug/net7.0/Fibonacci.deps.json
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/bin/Debug/net7.0/Fibonacci.runtimeconfig.json
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/bin/Debug/net7.0/Fibonacci.dll
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/bin/Debug/net7.0/Fibonacci.pdb
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.AssemblyReference.cache
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfo.cs
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.dll
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/refint/Fibonacci.dll
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.pdb
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/Fibonacci.genruntimeconfig.cache
+/Users/yuxismac/Desktop/Antra lectures/Fibonacci/Fibonacci/obj/Debug/net7.0/ref/Fibonacci.dll
