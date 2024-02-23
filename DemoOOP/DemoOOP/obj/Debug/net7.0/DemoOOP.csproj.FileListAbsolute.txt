@@ -1,0 +1,15 @@
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/bin/Debug/net7.0/DemoOOP
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/bin/Debug/net7.0/DemoOOP.deps.json
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/bin/Debug/net7.0/DemoOOP.runtimeconfig.json
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/bin/Debug/net7.0/DemoOOP.dll
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/bin/Debug/net7.0/DemoOOP.pdb
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.csproj.AssemblyReference.cache
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.AssemblyInfoInputs.cache
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.AssemblyInfo.cs
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.csproj.CoreCompileInputs.cache
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.dll
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/refint/DemoOOP.dll
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.pdb
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/DemoOOP.genruntimeconfig.cache
+/Users/yuxismac/Projects/DemoOOP/DemoOOP/obj/Debug/net7.0/ref/DemoOOP.dll
